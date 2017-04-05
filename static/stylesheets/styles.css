@@ -1,0 +1,35 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.no-posts-here {
+    text-align: center;
+}
+
+.post {}
+
+.post .post__meta {
+    font-weight: bold;
+    text-align: right;
+    padding-bottom: 19px;
+}
+
+.post .post__meta a:hover {
+    text-decoration: none;
+}
+
+.btn-add-new-post {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+#map {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    height: 70% !important;
+}

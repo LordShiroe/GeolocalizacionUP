@@ -1,0 +1,14 @@
+<div style=" margin: auto;
+    width: 50%;
+    height: 70% !important;
+    padding: 10px;">
+    <label for='usuarios'>Usuarios </label>
+    <ui-select id='usuarios' ng-model="vm.selected.value">
+        <ui-select-match>
+            <span ng-bind="$select.selected.id+' - '+$select.selected.first_name+' '+$select.selected.last_name+' - '+$select.selected.username"></span>
+        </ui-select-match>
+        <ui-select-choices repeat="item in (itemArray | filter: $select.search) track by item.id">
+            <span ng-bind="item.id+' - '+item.first_name+' '+item.last_name+' - '+item.username"></span>
+        </ui-select-choices>
+    </ui-select>
+</div>

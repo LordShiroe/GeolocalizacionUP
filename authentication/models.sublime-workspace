@@ -1,0 +1,726 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Log",
+				"LogoutView	class"
+			],
+			[
+				"log",
+				"logout	function"
+			],
+			[
+				"angular",
+				"angular-cookies"
+			],
+			[
+				"ng",
+				"ngCookie"
+			],
+			[
+				"coo",
+				"$cookies	AngularJS"
+			],
+			[
+				"view",
+				"views	module"
+			],
+			[
+				"sta",
+				"status	module"
+			],
+			[
+				"res",
+				"rest_framework	module"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "models.py",
+			"settings":
+			{
+				"buffer_size": 1624,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/carlos/Desarrollo/GeolocalizacionBackend/Geolocalizacion/Geolocalizacion/urls.py",
+			"settings":
+			{
+				"buffer_size": 1535,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "serializers.py",
+			"settings":
+			{
+				"buffer_size": 1280,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/carlos/Desarrollo/GeolocalizacionBackend/Geolocalizacion/Geolocalizacion/settings.py",
+			"settings":
+			{
+				"buffer_size": 3415,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/carlos/Desarrollo/GeolocalizacionBackend/Geolocalizacion/posts/models.py",
+			"settings":
+			{
+				"buffer_size": 496,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/carlos/Desarrollo/GeolocalizacionBackend/Geolocalizacion/posts/serializers.py",
+			"settings":
+			{
+				"buffer_size": 647,
+				"line_ending": "Unix",
+				"name": "from rest_framework import serializers"
+			}
+		},
+		{
+			"file": "/home/carlos/Desarrollo/GeolocalizacionBackend/Geolocalizacion/posts/views.py",
+			"settings":
+			{
+				"buffer_size": 1091,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views.py",
+			"settings":
+			{
+				"buffer_size": 2506,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/carlos/Desarrollo/AppGeolocalizacion/geolocalizacion/www/datos.html",
+			"settings":
+			{
+				"buffer_size": 1483,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/carlos/Desarrollo/AppGeolocalizacion/geolocalizacion/www/js/app.js",
+			"settings":
+			{
+				"buffer_size": 9901,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/carlos/Desarrollo/AppGeolocalizacion/geolocalizacion/www/index.html",
+			"settings":
+			{
+				"buffer_size": 2125,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/carlos/Desarrollo/AppGeolocalizacion/geolocalizacion/platforms/platforms.json",
+			"settings":
+			{
+				"buffer_size": 26,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/carlos/Desarrollo/GeolocalizacionBackend/Geolocalizacion/templates/index.html",
+			"settings":
+			{
+				"buffer_size": 362,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 32.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/carlos/Desarrollo/GeolocalizacionBackend/Geolocalizacion/posts/permissions.py",
+		"/home/carlos/Desarrollo/GeolocalizacionBackend/Geolocalizacion/authentication/views.py",
+		"/home/carlos/Desarrollo/GeolocalizacionBackend/Geolocalizacion/authentication/permissions.py",
+		"/home/carlos/Desarrollo/GeolocalizacionBackend/Geolocalizacion/Geolocalizacion/urls.py",
+		"/home/carlos/Desarrollo/AppGeolocalizacion/geolocalizacion/www/index.html",
+		"/home/carlos/Desarrollo/AppGeolocalizacion/geolocalizacion/ionic.project",
+		"/home/carlos/Desarrollo/proyecto-servidores/thinkster-django-angular-boilerplate/static/javascripts/authentication/services/authentication.service.js",
+		"/home/carlos/Desarrollo/AppGeolocalizacion/geolocalizacion/www/lib/angular-cookies/angular-cookies.js",
+		"/home/carlos/Desarrollo/AppGeolocalizacion/geolocalizacion/www/lib/ionic/js/angular/angular.js",
+		"/home/carlos/Desarrollo/AppGeolocalizacion/geolocalizacion/www/lib/ionic/js/ionic-angular.js",
+		"/home/carlos/Desarrollo/AppGeolocalizacion/geolocalizacion/www/lib/ionic/js/ionic.bundle.js",
+		"/home/carlos/Desarrollo/AppGeolocalizacion/geolocalizacion/www/lib/angular/package.json",
+		"/home/carlos/Desarrollo/AppGeolocalizacion/geolocalizacion/www/lib/angular-cookies/package.json",
+		"/home/carlos/Desarrollo/proyecto-servidores/thinkster-django-angular-boilerplate/static/javascripts/authentication/authentication.module.js",
+		"/home/carlos/Desarrollo/proyecto-servidores/thinkster-django-angular-boilerplate/static/javascripts/thinkster.js",
+		"/home/carlos/Desarrollo/proyecto-servidores/thinkster-django-angular-boilerplate/templates/javascripts.html",
+		"/home/carlos/Desarrollo/AppGeolocalizacion/geolocalizacion/bower.json",
+		"/home/carlos/Desarrollo/GeolocalizacionBackend/Geolocalizacion/templates/javascripts.html",
+		"/home/carlos/Desarrollo/GeolocalizacionBackend/Geolocalizacion/templates/stylesheets.html",
+		"/home/carlos/Desarrollo/GeolocalizacionBackend/Geolocalizacion/templates/navbar.html",
+		"/home/carlos/Desarrollo/GeolocalizacionBackend/Geolocalizacion/templates/index.html",
+		"/home/carlos/Desarrollo/GeolocalizacionBackend/Geolocalizacion/Geolocalizacion/settings.py",
+		"/home/carlos/Desarrollo/proyecto-servidores/thinkster-django-angular-boilerplate/thinkster_django_angular_boilerplate/settings.py",
+		"/home/carlos/Desarrollo/proyecto-servidores/thinkster-django-angular-boilerplate/thinkster_django_angular_boilerplate/urls.py",
+		"/home/carlos/Desarrollo/GeolocalizacionBackend/Geolocalizacion/Geolocalizacion/views.py",
+		"/home/carlos/Desarrollo/proyecto-servidores/thinkster-django-angular-boilerplate/authentication/views.py",
+		"/home/carlos/Desarrollo/proyecto-servidores/thinkster-django-angular-boilerplate/thinkster_django_angular_boilerplate/views.py",
+		"/home/carlos/Desarrollo/GeolocalizacionBackend/Geolocalizacion/authentication/serialisers.py",
+		"/home/carlos/Desarrollo/proyecto-servidores/thinkster-django-angular-boilerplate/authentication/models.py",
+		"/home/carlos/Desarrollo/proyecto-servidores/thinkster-django-angular-boilerplate/templates/index.html",
+		"/home/carlos/Desarrollo/proyecto-servidores/thinkster-django-angular-boilerplate/dist/static/javascripts/thinkster.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getAuthe",
+			"setAuth",
+			"_sel",
+			"/dat",
+			"content",
+			"email",
+			"templa",
+			"templae",
+			"email"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"barcode",
+			"username"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 12,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1472,
+								1472
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 336.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/carlos/Desarrollo/GeolocalizacionBackend/Geolocalizacion/Geolocalizacion/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 168.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "serializers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/carlos/Desarrollo/GeolocalizacionBackend/Geolocalizacion/Geolocalizacion/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1132,
+								1132
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 42.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/carlos/Desarrollo/GeolocalizacionBackend/Geolocalizacion/posts/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								314,
+								314
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/carlos/Desarrollo/GeolocalizacionBackend/Geolocalizacion/posts/serializers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								380,
+								380
+							]
+						],
+						"settings":
+						{
+							"auto_name": "from rest_framework import serializers",
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/carlos/Desarrollo/GeolocalizacionBackend/Geolocalizacion/posts/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1091,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								671,
+								671
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 42.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 126.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/carlos/Desarrollo/AppGeolocalizacion/geolocalizacion/www/datos.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1483,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1483,
+								1483
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/home/carlos/Desarrollo/AppGeolocalizacion/geolocalizacion/www/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9901,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2779,
+								2779
+							]
+						],
+						"settings":
+						{
+							"spell_check": false,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 980.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/home/carlos/Desarrollo/AppGeolocalizacion/geolocalizacion/www/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1510,
+								1510
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/home/carlos/Desarrollo/AppGeolocalizacion/geolocalizacion/platforms/platforms.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/home/carlos/Desarrollo/GeolocalizacionBackend/Geolocalizacion/templates/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 96.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "models.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
