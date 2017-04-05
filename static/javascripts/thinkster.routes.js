@@ -16,7 +16,7 @@
             controller: 'RegisterController',
             controllerAs: 'vm',
             templateUrl: '/static/templates/authentication/register.html'
-        }).when('/login', {
+        }).when('/Geolocalizacion/login', {
             controller: 'LoginController',
             controllerAs: 'vm',
             templateUrl: '/static/templates/authentication/login.html'
