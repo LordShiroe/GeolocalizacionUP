@@ -18,6 +18,13 @@
     </div>
     <div id='map'></div>
     {% include 'javascripts.html' %}
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("script[type*=plain]").each(function () {
+                $(this).replaceWith(eval($(this).text()));
+            });
+        });
+    </script>
 </body>
 
 </html>
